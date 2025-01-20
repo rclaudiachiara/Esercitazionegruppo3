@@ -1,6 +1,7 @@
 # Esercitazionegruppo3
-Repository è stato creato per esercitarsi con Git e GitHub
+Questo repository è stato creato per esercitarsi con Git e GitHub ad uso della sessione 3
+CASABURI - DI COSIMO - TAMPONE - ROSSI -VALERI
 ## Membri del Team: 
 ### Claudia Chiara rossi
-"aggiunta extra" 
+Sta imparando ad usare git perchè sa che sara essenziale per il suo lavoro 
 "aggiunta extra" 
